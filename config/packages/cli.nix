@@ -90,6 +90,7 @@ with pkgs; [
   # utils
   ## file
   yazi # cli file manager
+  zip
   unzip # unzips files
   ffmpeg # convert any music/video files
   inotify-tools
