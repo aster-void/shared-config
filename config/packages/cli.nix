@@ -45,9 +45,7 @@ with pkgs; [
   libnotify
   speedtest-cli
 
-  # Terminal
-  ## Terminal
-  alacritty
+  # CLI / term
   ## Tmux
   zellij
   ## Shell

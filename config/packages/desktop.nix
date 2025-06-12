@@ -13,6 +13,11 @@ with pkgs; [
   windsurf
   drawio
 
+  ## Terminal
+  alacritty
+  kitty
+  ghostty
+
   # System manager
   blueberry # gui bluetooth manager
   dunst # notification daemon
