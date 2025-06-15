@@ -64,6 +64,8 @@ with pkgs; [
   ## system info
   btop
   cpufetch
+  fastfetch
+  nitch
 
   ## hardware info
   baobab # harddisk usage visualizer
