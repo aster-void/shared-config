@@ -43,7 +43,7 @@
     hs = "home-manager switch";
     hb = "home-manager switch";
     home = "home-manager";
-    nixgc = "nixos-collect-garbage";
+    nixgc = "nix-collect-garbage";
     rb = "sudo nixos-rebuild";
     rbs = "sudo nixos-rebuild switch";
     rbb = "sudo nixos-rebuild boot";
