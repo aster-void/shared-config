@@ -1,7 +1,10 @@
+# editors that must be available globally
 pkgs:
 with pkgs; [
   # editors
   vim
+
+  claude-code
 
   # LSs
   # Coding languages
