@@ -61,6 +61,7 @@ with pkgs; [
   feh # image viewer that is too simple
   kdePackages.gwenview # file manager that actually works
   vlc # music player
+  playerctl
 
   # Apps
   ## Social
