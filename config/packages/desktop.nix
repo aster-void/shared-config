@@ -9,7 +9,7 @@ with pkgs; [
   # Develop
   ## Code Editor
   zed-editor
-  code-cursor
+  # code-cursor
   windsurf
   drawio
 
