@@ -20,6 +20,7 @@ with pkgs; [
   xsel # copy & paste
   killall
   gettext
+  nmap # internet
 
   ## Drivers
   edid-decode # decode video transfer protocols?
