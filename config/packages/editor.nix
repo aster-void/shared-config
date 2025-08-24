@@ -73,4 +73,7 @@ with pkgs; [
   # General LSPs
   lsp-ai
   helix-gpt
+
+  # Other-than-text
+  blockbench
 ]
