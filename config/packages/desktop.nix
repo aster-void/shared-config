@@ -15,6 +15,7 @@ with pkgs; [
 
   ## Terminal
   alacritty
+  wezterm
   kitty
   ghostty
 
